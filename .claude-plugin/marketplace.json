@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "welgo-ea-plugin",
-      "source": ".",
+      "source": "./plugins/welgo-ea-plugin",
       "description": "Welgo EA plugin for Jessah Babor"
     }
   ]

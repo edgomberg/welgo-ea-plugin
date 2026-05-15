@@ -1,0 +1,10 @@
+{
+  "name": "welgo-ea-plugin",
+  "version": "0.1.0",
+  "description": "Welgo EA plugin for Jessah Babor",
+  "author": {
+    "name": "Ed Gomberg",
+    "email": "edgomberg@gmail.com"
+  },
+  "license": "Private"
+}
