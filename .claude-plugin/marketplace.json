@@ -1,0 +1,15 @@
+{
+  "name": "welgo-ea",
+  "owner": {
+    "name": "Ed Gomberg",
+    "email": "edgomberg@gmail.com"
+  },
+  "description": "Welgo EA plugin for Jessah Babor",
+  "plugins": [
+    {
+      "name": "welgo-ea-plugin",
+      "source": ".",
+      "description": "Welgo EA plugin for Jessah Babor"
+    }
+  ]
+}
